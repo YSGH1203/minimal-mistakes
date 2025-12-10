@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-TW"
+locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "聖誕儀式大公開"
+title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : "全球聖誕傳統精選"
-name                     : "聖誕儀式策展團隊"
-description              : "聖誕節的美好，不論是在旅途中、回家團聚，或只是在家裡窩著度過，那些每年循環上演的節慶記憶，都是讓人反覆回味的溫暖。放眼全球，不同國家以截然不同的方式歡度這個季節：有些沿襲古老儀式，有些則在文化融合中，創造出嶄新的節慶風景。以下整理世界各地最具特色的聖誕傳統。"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "聖誕儀式策展團隊"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "一起探索全球各地的聖誕儀式、記憶與溫暖。"
-  location         : "北極工作坊"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
