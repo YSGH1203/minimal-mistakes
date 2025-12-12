@@ -1,0 +1,24 @@
+/* ==========================================================================
+   Christmas skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #f8f5f2 !default;
+$text-color: #233026 !default;
+$muted-text-color: mix(#fff, $text-color, 35%) !default;
+$primary-color: #c0392b !default;
+$border-color: mix(#fff, $text-color, 70%) !default;
+$footer-background-color: #1f6f43 !default;
+$link-color: $primary-color !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $primary-color !default;
+$navicon-link-color-hover: mix(#fff, $primary-color, 70%) !default;
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
