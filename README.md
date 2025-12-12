@@ -21,7 +21,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 - Bundled as a "theme gem" for easier installation/upgrading.
 - Compatible with GitHub Pages.
 - Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
+- Ten different skins (color variations).
 - Several responsive layout options (single, archive index, search, splash, and paginated home page).
 - Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data.
 - Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
@@ -31,7 +31,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 
 ## Skins (color variations)
 
-This theme comes in nine different skins (in addition to the default one).
+This theme comes in ten different skins (in addition to the default one).
 
 | `air` | `contrast` | `dark` |
 | --- | --- | --- |
@@ -44,6 +44,8 @@ This theme comes in nine different skins (in addition to the default one).
 | `aqua` | `neon` | `plum` |
 | --- | --- | --- |
 | [![aqua skin](https://mmistakes.github.io/minimal-mistakes/assets/images/aqua-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/aqua-skin-archive-large.png) | [![neon skin](https://mmistakes.github.io/minimal-mistakes/assets/images/neon-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/neon-skin-archive-large.png) | [![plum skin](https://mmistakes.github.io/minimal-mistakes/assets/images/plum-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/plum-skin-archive-large.png) |
+
+A festive `christmas` skin is also available for holiday-themed sites.
 
 ## Demo pages
 
