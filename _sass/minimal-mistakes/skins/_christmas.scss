@@ -1,0 +1,58 @@
+/* ==========================================================================
+   Christmas skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #f9f5ef !default;
+$text-color: #1f3526 !default;
+$muted-text-color: mix(#fff, $text-color, 40%) !default;
+$primary-color: #c1121f !default;
+$border-color: mix(#fff, $text-color, 70%) !default;
+$footer-background-color: #0f3d2e !default;
+$link-color: $primary-color !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $primary-color !default;
+$navicon-link-color-hover: mix(#fff, $primary-color, 25%) !default;
+$button-color: $primary-color !default;
+$button-background-color: mix(#fff, $primary-color, 85%) !default;
+$button-background-hover: mix(#fff, $primary-color, 70%) !default;
+
+.masthead,
+.greedy-nav {
+  background: linear-gradient(135deg, #0f3d2e 0%, #1c5c45 45%, #c1121f 100%);
+}
+
+.greedy-nav .site-title,
+.greedy-nav a,
+.greedy-nav .visible-links li > a {
+  color: #f7f7f7;
+}
+
+.greedy-nav a:hover,
+.greedy-nav a:focus {
+  color: #ffffff;
+}
+
+.greedy-nav__toggle {
+  color: #ffffff;
+}
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+blockquote {
+  border-left-color: mix($primary-color, $text-color, 70%);
+  background: mix(#fff, $primary-color, 90%);
+}
+
+.highlight,
+pre,
+code {
+  background-color: mix(#fff, $primary-color, 92%);
+}
